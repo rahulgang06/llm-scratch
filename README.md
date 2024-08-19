@@ -8,3 +8,8 @@
           Run the training.py for train the model use the pkl file generated from this and then run the chatbot.py file 
 
           cmd to run chatbot.py : python chatbot.py -batch_size = 32. 
+
+**Output** : 
+
+https://github.com/user-attachments/assets/aa14b06b-1d6b-4894-a141-6d6f4d60755e
+
